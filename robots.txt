@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mokohinoor252-svg.github.io/Goa-tour-/sitemap.xml
